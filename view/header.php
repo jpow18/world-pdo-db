@@ -7,7 +7,7 @@
   <ul class="nav-menu">
     <li><a href="/psp">Home</a></li>
     <li><a href="pages/delete.php">Delete Column Value</a></li>
-    <li><a href="pages/delete.php">Delete Row (country)</a></li>
+    <li><a href="pages/delete.php">Delete Row (Country)</a></li>
     <li><a href="#footer">Contact</a></li>
   </ul>
 
