@@ -1,7 +1,7 @@
 <?php
   $country = filter_input(INPUT_GET, "country", FILTER_SANITIZE_SPECIAL_CHARS);
   $category = filter_input(INPUT_GET, "category", FILTER_SANITIZE_SPECIAL_CHARS);
-  include_once("./config/database.php");
+  include_once("config/database.php");
 
   if ($country && $category) {
     $query = 'SELECT '.$category.' FROM country WHERE Name = ?';

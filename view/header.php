@@ -6,7 +6,8 @@
   <h1>Explore the world</h1>
   <ul class="nav-menu">
     <li><a href="/psp">Home</a></li>
-    <li><a href="pages/delete.php">Delete</a></li>
+    <li><a href="pages/delete.php">Delete Column Value</a></li>
+    <li><a href="pages/delete.php">Delete Row (country)</a></li>
     <li><a href="#footer">Contact</a></li>
   </ul>
 
